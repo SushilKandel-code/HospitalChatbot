@@ -1,0 +1,114 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color:#8f43d5;
+    width: 900px;
+    height: auto;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding: 50px;
+}
+
+h1 {
+    color:whitesmoke;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-align: center;
+    font-size: 40px;
+}
+
+.hospital{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #3e0f99;
+    border-radius: 25px;
+    width: 900px;
+    height: 80px;
+    margin-top: -55px;
+    text-align: center;
+    margin-left: -52px;
+    padding: 50px;
+}
+
+.chatBody{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #bf50c0;
+    width: 883px;
+    height: auto;
+    margin-top: -20px;
+    margin-left: -51px;
+    padding: 60px;
+}
+
+
+#chatbox {
+
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-top: 60px;
+
+}
+
+#userInput {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-top: 60px;
+}
+
+#textInput {
+    width:  77%;
+    border: inset;
+    border-radius: 5px;
+    border-bottom: 3px solid;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+}
+
+#buttonInput{
+    padding: 3px;
+    font-family: monospace;
+    font-size: 18px;
+
+}
+
+.userText {
+    color: whitesmoke;
+    font-family: monospace;
+    font-size: 18px;
+    text-align: right;
+    line-height: 100px;
+}
+
+.userText span{
+    background-color: #c662df;
+    padding: 10px;
+
+}
+
+.userText ::before{
+    content: "Me: "
+}
+
+.botText {
+    color: whitesmoke;
+    font-family: monospace;
+    font-size: 18px;
+    text-align: left;
+    line-height: 50px;
+}
+
+.botText span{
+    background-color: #4131c8;
+    padding: 10px;
+}
+
+.botText span::before{
+    content: "Bot: "
+}
+
+#tidbit{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 300px;
+}

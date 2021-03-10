@@ -1,0 +1,14 @@
+categories:
+- fever
+conversations:
+- - My body temperature has raised.
+  - This is a symptom of fever, you should take a tablet of Acetaminophen after you have your meal.
+- - I have slightly fever
+  - You should take a tablet of Acetaminophen after your meal thrice a day
+- - ok
+  - let me know if you are feeling better after having Acetaminophen.
+- - I took Acetaminophen.
+  - How are you feelong now?
+- - feeling better
+  - Okay, you can consult nearest with medical if you feel sick again or just text me.
+ 

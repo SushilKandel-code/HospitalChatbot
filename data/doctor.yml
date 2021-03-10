@@ -1,0 +1,21 @@
+categories:
+- doctor
+conversations:
+- - I want to meet a doctor
+  - Which doctor do you want to meet? Diagnosis Doctor Dr.Ram / Allergists Dr.Shyam / Anesthesiologists Dr.Rohit / Cardiologists Dr.Rohan / Dermatologists Dr.Lochan
+- - Dr.Ram
+  - He will be available every from 7am to 10am and 6pm to 7pm! You can meet him at this time at Hospital premisis.
+- - Dr.Shyam
+  - He will be available Monday to Saturday from 8am to 10am and 5pm to 8pm! You can meet him at this time at Hospital premisis.
+- - Dr.Rohit
+  - He will be available Sunday to Friday from 7am to 1pm! You can meet him at this time at Hospital premisis.
+- - Dr.Rohan
+  - He will be available Monday to Saturday from 12pm to 6pm! You can meet him at this time at Hospital premisis.
+- - Dr.Lochan
+  - He will be available Sunday to Saturday from 7am to 11am! You can meet him at this time at Hospital premisis.
+- - thanks
+  - happy to help!
+- - Thanks
+  - happy to help! Always there for you! 
+- - Thankyou
+  - Always there to help you! 

@@ -1,0 +1,35 @@
+categories:
+- greetings
+conversations:
+- - hi 
+  - hello. How can I help you?
+- - Hello
+  - Hi. How are you? How can I help you?
+- - Hi
+  - Hello. How are you feeling today?
+- - Greetings!
+  - Hello. How are you? How can I help you?
+  - How are you feeling today?
+- - Hi, How is it going?
+  - working great! How are you feeling today?
+- - hey
+  - Hey! How can i assist you? 
+- - How do you do?
+  - I'm doing well. How are you feeling today?
+- - Hi, nice to meet you.
+  - Thank you. You too. 
+- - Bye bye
+  - bye. thanks for using our service
+- - thanks for helping me out
+  - No worries! I am always here to help you
+- - thanks
+  - mention not! I am here to help you
+- - thanks
+  - happy to help!
+- - thankyou 
+  - Happy to help! Always there for you!
+- - Thanks
+   - Always there for you! 
+- - bye
+  - bye. thanks for using our service
+

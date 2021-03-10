@@ -1,0 +1,11 @@
+You need to install these libraries with same version to run
+the chatbot program
+
+python 3.7 ==>version 3.7
+flask ==> version 1.1.1
+chatterbot ==> version 1.0.0
+chatterbot-corpus ==> version 1.2.0
+jinja2 ==> version 2.10.1
+nltk ==> 3.4.4
+requests ==> version 2.25.1
+sqlite ==> version 3.33.0
